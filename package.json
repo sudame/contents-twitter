@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/sudame/contents-twitter#readme",
   "dependencies": {
+    "csvtojson": "^1.1.9",
     "node-oauth": "^0.1.3",
     "rmdir": "^1.2.0",
     "twitter": "^1.7.1",
